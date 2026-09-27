@@ -72,7 +72,6 @@ a:hover { text-decoration: underline; }
 
 /* Sections */
 .section { padding: 46px 0; }
-.section.alt { background: var(--bg-alt); }
 .section-title {
   font-size: 1.25rem; margin: 0 0 20px; padding-bottom: 8px;
   border-bottom: 2px solid var(--accent); display: inline-block;
