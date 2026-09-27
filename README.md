@@ -1,18 +1,12 @@
 # 江松阳 · Songyang Jiang
 
-<details open>
-<summary><b>简体中文</b></summary>
+**简体中文**
 
 江松阳的个人主页，托管于 GitHub Pages。网页支持中英文即时切换，并自动保存语言偏好。
 
-</details>
-
-<details>
-<summary><b>English</b></summary>
+**English**
 
 Personal homepage of Songyang Jiang (江松阳), hosted on GitHub Pages. The page offers an instant Chinese/English toggle and remembers your language preference.
-
-</details>
 
 ## 目录结构 / Structure
 
