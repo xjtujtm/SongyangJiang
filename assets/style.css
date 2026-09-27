@@ -5,8 +5,8 @@
   --text-soft: #57606a;
   --muted: #8b949e;
   --border: #e6e8eb;
-  --accent: #a6192e;      /* XJTU red */
-  --accent-soft: #fbeff1;
+  --accent: #0e3d7a;      /* XJTU blue */
+  --accent-soft: #e9f0fa;
   --radius: 12px;
   --maxw: 900px;
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
@@ -55,7 +55,7 @@ a:hover { text-decoration: underline; }
 .hero { padding: 56px 0 40px; border-bottom: 1px solid var(--border); }
 .hero-inner { display: flex; gap: 36px; align-items: center; }
 .avatar {
-  width: 150px; height: 150px; object-fit: cover; object-position: center top;
+  width: 160px; height: 240px; object-fit: cover; object-position: center;
   border-radius: var(--radius); border: 1px solid var(--border); flex: 0 0 auto;
   box-shadow: 0 6px 20px rgba(0,0,0,.08);
 }
@@ -68,7 +68,7 @@ a:hover { text-decoration: underline; }
   display: inline-block; background: var(--accent); color: #fff; padding: 9px 20px;
   border-radius: 999px; font-size: .9rem; transition: .2s;
 }
-.btn:hover { background: #8b1426; text-decoration: none; }
+.btn:hover { background: #092a58; text-decoration: none; }
 
 /* Sections */
 .section { padding: 46px 0; }
@@ -136,6 +136,6 @@ a:hover { text-decoration: underline; }
   .hero { padding: 34px 0 28px; }
   .hero-inner { flex-direction: column; text-align: center; gap: 20px; }
   .contact { justify-content: center; }
-  .avatar { width: 130px; height: 130px; }
+  .avatar { width: 140px; height: 210px; }
   .tl-head .meta { white-space: normal; }
 }
