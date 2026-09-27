@@ -1,0 +1,7 @@
+# Large source binaries (optimized copies live in assets/)
+ID_Photo.jpg
+Songyang_Jiang_Resume__chn__ver__(1).pdf
+
+# Private source files (kept locally, not published)
+main.tex
+assets/cv.pdf
